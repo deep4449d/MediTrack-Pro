@@ -1,0 +1,22 @@
+Medicine,Category,Current_Stock,Minimum_Stock,Unit_Price,Expiry_Date
+Paracetamol,Painkiller,7,10,5.5,2026-05-16
+Amoxicillin,Capsule,10,30,5.0,2026-12-20
+Cough Syrup,Syrup,45,20,60.0,2026-09-10
+Ibuprofen,Tablet,100,40,3.0,2027-03-25
+Cetirizine,Tablet,70,25,2.0,2026-11-18
+Azithromycin,Tablet,60,20,8.0,2026-10-05
+Vitamin C,Tablet,150,60,1.5,2027-04-12
+ORS Powder,Packet,200,80,10.0,2026-08-30
+Insulin,Injection,30,10,250.0,2026-07-15
+Metformin,Tablet,90,35,4.0,2027-02-20
+Aspirin,Tablet,110,50,2.0,2027-01-05
+Antacid,Syrup,50,20,55.0,2026-09-25
+Dolo 650,Surgical,11,60,3.5,2027-05-10
+Pantoprazole,Tablet,75,30,6.0,2026-12-01
+Zinc Tablets,Tablet,85,40,2.5,2027-03-15
+Saline,Injection,40,15,35.0,2026-08-10
+Calcium Tablets,Tablet,95,45,3.0,2027-06-18
+Loperamide,Tablet,55,20,4.5,2026-10-22
+Betadine,Ointment,35,15,45.0,2026-11-30
+Hydrocortisone Cream,Ointment,25,10,70.0,2026-12-15
+neuform,Painkiller,5,12,2.5,2026-05-07
